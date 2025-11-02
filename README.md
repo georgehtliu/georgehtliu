@@ -4,16 +4,15 @@
 ---
 
 ### About Me
-* 💼 **Professional Experience:** Previously interned at **Tesla, Ford, Huawei,** and **Trend Micro**, gaining diverse experience in software development and engineering.
+* 💼 **Professional Experience:** Previously interned at **Tesla, Ford, Huawei,** and **Trend Micro**.
 * 🌱 **Currently Learning:** Deep diving into **Agentic Workflows**.
-* 👨‍💻 **Tech Stack:** Passionate about **full-stack development** and **devops** (Check out my languages and tools below!)
-* 📫 **Contact:** Feel free to reach out at **georgeliu220@gmail.com**
+* 📫 **Contact:** Reach out at **georgeliu220@gmail.com**
 
 ### Connect & Banter
 
 * 💬 **Ask Me About:** **Tech, Food,** or **Barbering**.
 * ⚡ **Fun Fact:** I once conquered **three Subway footlong sandwiches** in a single sitting.
-* 🕹️ **Throwback:** Check out the **first-ever coding project** I created back in 10th grade: [Play here! 🏀](https://cocky-meninsky-f1d9fe.netlify.app/basketball.html)
+* 🕹️ **Throwback:** Check out my first ever project from 10th grade: [Play here! 🏀](https://cocky-meninsky-f1d9fe.netlify.app/basketball.html)
 * 📸 **Connect:** <a href="https://instagram.com/gl.blendzzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gl.blendzzz" height="30" width="40" /></a>
 
 ---
