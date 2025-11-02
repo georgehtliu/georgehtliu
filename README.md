@@ -4,7 +4,7 @@
 ---
 
 ### About Me
-
+* 💼 **Professional Experience:** Previously interned at **Tesla, Ford, Huawei,** and **Trend Micro**, gaining diverse experience in software development and engineering.
 * 🌱 **Currently Learning:** Deep diving into **Agentic Workflows**.
 * 👨‍💻 **Tech Stack:** Passionate about **full-stack development** and **devops** (Check out my languages and tools below!)
 * 📫 **Contact:** Feel free to reach out at **georgeliu220@gmail.com**
