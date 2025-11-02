@@ -6,7 +6,7 @@
 ### About Me
 * 💼 **Professional Experience:** Previous SWE at **Tesla, Ford, Huawei,** and **Trend Micro**.
 * 📚 **Education:** University of Waterloo CS class of 2025
-* 📫 **Contact:** Reach out at **georgeliu220@gmail.com**
+* 📫 **Contact:** **georgeliu220@gmail.com**
 
 ### Connect
 
