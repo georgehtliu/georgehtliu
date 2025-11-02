@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm George</h1>
-<h3 align="center">Software Engineer | SWE from 🇨🇦 Canada</h3>
+<h3 align="center">Software Engineer from 🇨🇦 Canada</h3>
 
 ---
 
