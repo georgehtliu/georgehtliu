@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm George</h1>
 <h3 align="center">A passionate SWE from Canada</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=georgehtliu" alt="georgehtliu" /></a> </p>
-
 - 🌱 I’m currently learning **about agentic workflows**
 
 - 💬 Ask me about **Soccer, Basketball, Barbering**
