@@ -2,5 +2,5 @@
 
 ### Connect
 
-* **Throwback:** Check out my first ever project from 2018: [Play here! 🏀](https://effulgent-custard-866370.netlify.app/basketball.html)
+* **Throwback:** Check out my first ever project from when I first started my journey: [Play here! 🏀](https://effulgent-custard-866370.netlify.app/basketball.html)
 * **Connect with me:** [Linkedin](https://www.linkedin.com/in/georgehtliu/)
